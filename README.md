@@ -46,6 +46,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -60,23 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kendyr7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kendyr's GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendyr7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kendyr7&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -84,13 +69,6 @@
 | [🃏 Flashcards App](https://github.com/kendyr7/flashcards_app) | Memorization tool for learning new topics & languages | Python |
 | [📊 Admin Dashboard](https://github.com/kendyr7/Responsive_Admin_Dashboard) | Fully responsive admin dashboard UI | HTML, CSS |
 | [💰 Budget Tracker](https://github.com/kendyr7/Budget-Tracker-with-Next.js) | Full-stack budget tracker app | Next.js, TypeScript, Prisma, Tailwind |
-| [🌐 Multi-Page Website](https://kendyr7.github.io/multi-page-website/) | Live multi-page responsive website | SCSS, HTML |
-
----
-
-## 📈 Activity Graph
-
-[![Kendyr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kendyr7&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
